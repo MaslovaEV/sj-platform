@@ -104,7 +104,7 @@
 		{
 			"id": "028516b8-fc89-d1ca-e455-f4bdcb6e30d5",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -125,7 +125,7 @@
 		{
 			"id": "0c8bccab-020e-f41f-e8ad-b8b76f4bd0fb",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -146,7 +146,7 @@
 		{
 			"id": "0c9be926-d765-46b6-7605-64953d8a0ebf",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/es/es.config",
+			"url": "http://{{address}}/v1/config/settings/es/es.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -166,7 +166,7 @@
 		{
 			"id": "12710fe1-975a-1cbd-cc58-a226c11d7add",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -187,7 +187,7 @@
 		{
 			"id": "1522953f-3b04-229d-c5af-f13148a782a9",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -208,7 +208,7 @@
 		{
 			"id": "178a08a9-3967-e601-b584-39946e9e32ce",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/t-streams/consumer.transaction-preload",
+			"url": "http://{{address}}/v1/config/settings/t-streams/consumer.transaction-preload",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -228,7 +228,7 @@
 		{
 			"id": "18225a03-58cb-b035-ffd4-45985f246730",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -249,7 +249,7 @@
 		{
 			"id": "18a336f7-c247-b263-6d80-da7aa6cd6037",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -270,7 +270,7 @@
 		{
 			"id": "1a034b46-086f-09dd-ad33-1fb2a1bb4011",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -291,7 +291,7 @@
 		{
 			"id": "1a771b34-8c84-c638-0c1a-5569b394df9d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -312,7 +312,7 @@
 		{
 			"id": "20cd1f00-0afa-09fd-ad09-5b5b1c317b15",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/t-streams/consumer.transaction-preload",
+			"url": "http://{{address}}/v1/config/settings/t-streams/consumer.transaction-preload",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -333,7 +333,7 @@
 		{
 			"id": "21631b5d-b068-9328-04ab-9b65604b28f5",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -354,7 +354,7 @@
 		{
 			"id": "21a6eae1-921c-9283-cd25-bfabae2043a1",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -373,7 +373,7 @@
 		{
 			"id": "24d45b5a-f135-c18b-5eba-7840ccdd09cd",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/zk/zk.config",
+			"url": "http://{{address}}/v1/config/settings/zk/zk.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -393,7 +393,7 @@
 		{
 			"id": "2a8e7591-3cb4-9190-447d-af6c3a484bce",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -414,7 +414,7 @@
 		{
 			"id": "2b2d0a68-f80f-387b-7a9f-29f48006d2c0",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/kafka/kafka.config",
+			"url": "http://{{address}}/v1/config/settings/kafka/kafka.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -434,7 +434,7 @@
 		{
 			"id": "2ef11d0c-29f2-96b6-3032-37eb399c200b",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/zk/",
+			"url": "http://{{address}}/v1/config/settings/zk/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -455,7 +455,7 @@
 		{
 			"id": "31c8169f-0fd4-9f5d-401d-4fe374cbcdcc",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/kafka/kafka.config",
+			"url": "http://{{address}}/v1/config/settings/kafka/kafka.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -475,7 +475,7 @@
 		{
 			"id": "341ea97c-8924-c5ff-a3be-cd9ead73861b",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/system/system.config",
+			"url": "http://{{address}}/v1/config/settings/system/system.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -495,7 +495,7 @@
 		{
 			"id": "3782a88b-0956-dfe4-5a4f-ce2daec0636d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -514,7 +514,7 @@
 		{
 			"id": "3ae8029e-f3f9-cc27-d446-6637dd5e7b0e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -535,7 +535,7 @@
 		{
 			"id": "3c694613-8ed2-4a4a-cd90-ed0b7b4796bc",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/kafka/kafka.config",
+			"url": "http://{{address}}/v1/config/settings/kafka/kafka.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -556,7 +556,7 @@
 		{
 			"id": "403f2172-0147-f7da-b035-0ea40fcb9e59",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/domains",
+			"url": "http://{{address}}/v1/config/settings/domains",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -576,7 +576,7 @@
 		{
 			"id": "46b3aaf5-4ad2-2589-eb9c-6a5e39eee972",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -597,7 +597,7 @@
 		{
 			"id": "46fb1efb-067a-e75b-4b83-81437514829e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/jdbc/jdbc.config",
+			"url": "http://{{address}}/v1/config/settings/jdbc/jdbc.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -617,7 +617,7 @@
 		{
 			"id": "48ddad21-98ef-b425-1e07-6ff0b83bf97d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/es/es.config",
+			"url": "http://{{address}}/v1/config/settings/es/es.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -637,7 +637,7 @@
 		{
 			"id": "499c1911-e364-a9d6-c672-e751fa72b44b",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -658,7 +658,7 @@
 		{
 			"id": "4d3ea298-7b60-6e04-4ba6-d99d07e83b47",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/system/system.config",
+			"url": "http://{{address}}/v1/config/settings/system/system.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -678,7 +678,7 @@
 		{
 			"id": "509f1568-3785-44f2-b82a-7b3b649941ba",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/jdbc/jdbc.config",
+			"url": "http://{{address}}/v1/config/settings/jdbc/jdbc.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -698,7 +698,7 @@
 		{
 			"id": "53dcfaee-a93c-c2d7-b17d-0e75028f3bf7",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/jdbc/jdbc.config",
+			"url": "http://{{address}}/v1/config/settings/jdbc/jdbc.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -718,7 +718,7 @@
 		{
 			"id": "54983ed1-ddb6-6490-e7d7-ef4470ca5776",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -739,7 +739,7 @@
 		{
 			"id": "55adde8b-c88a-c67a-b1d9-a7a488a17bb7",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -760,7 +760,7 @@
 		{
 			"id": "5778778d-08e9-f338-516f-6a119132c4a7",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -781,7 +781,7 @@
 		{
 			"id": "5b89aa46-14bb-4d76-c9bd-e04991ced4f1",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -802,7 +802,7 @@
 		{
 			"id": "5c70d94e-219a-9f2a-1ecf-ce3f3074f0b6",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/kafka/kafka.config",
+			"url": "http://{{address}}/v1/config/settings/kafka/kafka.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -823,7 +823,7 @@
 		{
 			"id": "61ab9d73-4838-45ab-7d17-1841a67bcf4a",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/es/",
+			"url": "http://{{address}}/v1/config/settings/es/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -844,7 +844,7 @@
 		{
 			"id": "6218bc12-12e9-156c-719e-693b4fb8e6c2",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -865,7 +865,7 @@
 		{
 			"id": "661aa2cf-9bea-2ee0-fd1b-a064825b1f92",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -886,7 +886,7 @@
 		{
 			"id": "668a70fd-9a31-bb92-7bef-8fbfee9f0797",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -906,7 +906,7 @@
 		{
 			"id": "6cf36c00-8bb3-b3f7-1e66-933c7413f425",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -927,7 +927,7 @@
 		{
 			"id": "6d46110b-2ccc-5bcc-ddb9-aa670a4d8d34",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/system/",
+			"url": "http://{{address}}/v1/config/settings/system/",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -947,7 +947,7 @@
 		{
 			"id": "6ebfe31e-2127-20f9-34c3-e9a572be4527",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -967,7 +967,7 @@
 		{
 			"id": "6fcb4247-2aac-9e2a-6aef-d3bca58ab26e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -988,7 +988,7 @@
 		{
 			"id": "7582f926-300e-2cd4-a14c-f147bb538e8d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/t-streams/consumer.transaction-preload",
+			"url": "http://{{address}}/v1/config/settings/t-streams/consumer.transaction-preload",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1009,7 +1009,7 @@
 		{
 			"id": "75c6c148-a08c-310f-3b1b-e179b7a7831b",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -1029,7 +1029,7 @@
 		{
 			"id": "760a8c73-848e-4e56-d2bb-fcc1280a3a1e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1050,7 +1050,7 @@
 		{
 			"id": "7711fcd8-d59a-dd1e-61b6-c7b32509bd6e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/system/system.config",
+			"url": "http://{{address}}/v1/config/settings/system/system.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -1070,7 +1070,7 @@
 		{
 			"id": "77f64ef3-f454-f080-ccc6-57809db95fb2",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -1090,7 +1090,7 @@
 		{
 			"id": "7956d34c-2dbb-d14f-3b4f-dd84f0b0cdab",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/jdbc/jdbc.config",
+			"url": "http://{{address}}/v1/config/settings/jdbc/jdbc.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1111,7 +1111,7 @@
 		{
 			"id": "79b46fcd-7766-7d4d-9f65-02a37a1323c2",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/es/es.config",
+			"url": "http://{{address}}/v1/config/settings/es/es.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -1131,7 +1131,7 @@
 		{
 			"id": "7a581cca-d078-a757-63a1-2a201c95ad30",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/zk/zk.config",
+			"url": "http://{{address}}/v1/config/settings/zk/zk.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -1151,7 +1151,7 @@
 		{
 			"id": "7a84d648-15b8-913d-5d51-b710ca2b7f46",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1172,7 +1172,7 @@
 		{
 			"id": "7c7c8d71-dfef-cce3-993d-9ce06468cb24",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1193,7 +1193,7 @@
 		{
 			"id": "8ce7f46d-cfdf-5eff-8de9-39b356adb8cf",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1214,7 +1214,7 @@
 		{
 			"id": "8e6bdb99-3b1d-7e88-9ce4-02b947e7b2c5",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -1234,7 +1234,7 @@
 		{
 			"id": "910ce852-b1f1-601b-e339-e5fc0d36ee41",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1255,7 +1255,7 @@
 		{
 			"id": "91844589-5269-492a-b0b2-a6876bb8916d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -1275,7 +1275,7 @@
 		{
 			"id": "9ce00545-b1a0-0962-6093-a88c2f5ba9e4",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1296,7 +1296,7 @@
 		{
 			"id": "a0ca9c5f-100d-192e-450e-c787be759f69",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1317,7 +1317,7 @@
 		{
 			"id": "a233506d-79a4-792d-d226-268aecfc6f1f",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1338,7 +1338,7 @@
 		{
 			"id": "a5031022-8d4c-3fad-6180-e5b9591ee187",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/t-streams/consumer.transaction-preload",
+			"url": "http://{{address}}/v1/config/settings/t-streams/consumer.transaction-preload",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "DELETE",
@@ -1358,7 +1358,7 @@
 		{
 			"id": "a77519d5-5028-e1eb-612e-6aba1dbc6c23",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1379,7 +1379,7 @@
 		{
 			"id": "a94cd33a-283f-e7fb-cc31-c18ba2767256",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1400,7 +1400,7 @@
 		{
 			"id": "acff5ba7-b330-8dcc-a117-e8f29723d64a",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/kafka/",
+			"url": "http://{{address}}/v1/config/settings/kafka/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1421,7 +1421,7 @@
 		{
 			"id": "b235d165-da2e-2773-10a1-b60b9374bc45",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/zk/zk.config",
+			"url": "http://{{address}}/v1/config/settings/zk/zk.config",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "GET",
@@ -1441,7 +1441,7 @@
 		{
 			"id": "b27a4f86-62b4-cbe3-b56f-a06c1a07c8b9",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1462,7 +1462,7 @@
 		{
 			"id": "b78d1e27-60de-db5f-8706-033b9f62f610",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1483,7 +1483,7 @@
 		{
 			"id": "b9ecd43b-318d-ac2f-b271-1e0ee4cfcade",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1504,7 +1504,7 @@
 		{
 			"id": "bb2cca7b-936a-f5c1-d99d-a0f55c841d5e",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1525,7 +1525,7 @@
 		{
 			"id": "beb024e9-6a84-1056-5e5c-cb98d9655aaf",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1546,7 +1546,7 @@
 		{
 			"id": "c20462ca-00a6-eed6-aa4a-cb35b4004378",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1567,7 +1567,7 @@
 		{
 			"id": "c55769d9-80a8-8e22-5a4d-700a692a19ba",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1588,7 +1588,7 @@
 		{
 			"id": "c90b8815-7b3f-e4e9-3942-f74c89a972ec",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1609,7 +1609,7 @@
 		{
 			"id": "cd0f961c-48be-0552-6a78-da2ea5eec304",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1630,7 +1630,7 @@
 		{
 			"id": "d14d07e8-4613-aa55-c6f9-9092b58d0b51",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/es/es.config",
+			"url": "http://{{address}}/v1/config/settings/es/es.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1651,7 +1651,7 @@
 		{
 			"id": "d3bc33e6-d95e-2f58-387f-cbf52e94c216",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1672,7 +1672,7 @@
 		{
 			"id": "d6157c38-42ca-ff82-0875-bb777ad2bd9f",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1693,7 +1693,7 @@
 		{
 			"id": "da8fd96f-1969-c74d-e410-04f913f4cd1d",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1714,7 +1714,7 @@
 		{
 			"id": "db83d539-d700-8d96-1b75-8c652047b02a",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1735,7 +1735,7 @@
 		{
 			"id": "dc2311bc-03bd-93a8-c520-b2150788c674",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1756,7 +1756,7 @@
 		{
 			"id": "dfcd1e8b-036f-6c1c-851c-9409247a12be",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/zk/zk.config",
+			"url": "http://{{address}}/v1/config/settings/zk/zk.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1777,7 +1777,7 @@
 		{
 			"id": "e24ce795-4026-e432-f1fd-cfbc38d984b9",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings",
+			"url": "http://{{address}}/v1/config/settings",
 			"preRequestScript": null,
 			"pathVariables": {},
 			"method": "POST",
@@ -1797,7 +1797,7 @@
 		{
 			"id": "e61854af-f1c5-1f75-8682-3f6a5cbe4eef",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/t-streams/",
+			"url": "http://{{address}}/v1/config/settings/t-streams/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1818,7 +1818,7 @@
 		{
 			"id": "e79ab04b-ee46-bf96-6eb1-1120b23482b7",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1839,7 +1839,7 @@
 		{
 			"id": "e8ffdb95-02a1-dc4a-4670-b94d3d74c9e2",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1860,7 +1860,7 @@
 		{
 			"id": "e9c2140f-b05f-2076-3414-ddbb84f76d9c",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/jdbc/",
+			"url": "http://{{address}}/v1/config/settings/jdbc/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1881,7 +1881,7 @@
 		{
 			"id": "ea5ba2a7-4064-d352-15f0-d45f0e9fb1d2",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1902,7 +1902,7 @@
 		{
 			"id": "eac57da7-4f2b-d683-92c0-6b06a1a78fef",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1923,7 +1923,7 @@
 		{
 			"id": "f1fa1b00-6434-11c9-f07c-dfb191c8d599",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/system/system.config",
+			"url": "http://{{address}}/v1/config/settings/system/system.config",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "GET",
@@ -1944,7 +1944,7 @@
 		{
 			"id": "f46a46ae-6023-e023-2c1b-a1be5bfca11b",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1965,7 +1965,7 @@
 		{
 			"id": "fcf00dda-556c-f68d-5023-b29afb2edbd3",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
@@ -1986,7 +1986,7 @@
 		{
 			"id": "fd4e3940-a0d3-8678-1a97-eaa3dafb1473",
 			"headers": "",
-			"url": "http://{{adress}}/v1/config/settings/",
+			"url": "http://{{address}}/v1/config/settings/",
 			"pathVariables": {},
 			"preRequestScript": null,
 			"method": "POST",
